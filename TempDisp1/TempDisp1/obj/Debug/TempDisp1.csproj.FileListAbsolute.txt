@@ -1,0 +1,9 @@
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\bin\Debug\CoffeeTemp.exe.config
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\bin\Debug\CoffeeTemp.exe
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\bin\Debug\CoffeeTemp.pdb
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\obj\Debug\TempDisp1.TempDispFM.resources
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\obj\Debug\TempDisp1.Properties.Resources.resources
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\obj\Debug\TempDisp1.csproj.GenerateResource.cache
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\obj\Debug\TempDisp1.csproj.CoreCompileInputs.cache
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\obj\Debug\CoffeeTemp.exe
+D:\CSharpCode\TempDisp1\TempDisp1\TempDisp1\obj\Debug\CoffeeTemp.pdb
